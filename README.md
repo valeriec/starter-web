@@ -9,4 +9,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-2022 Git.Training
+Please fork this repository and the issue pull request for review.
