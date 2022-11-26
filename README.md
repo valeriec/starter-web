@@ -8,6 +8,10 @@ Adding a line for rebasing example, then more changes from myfeature branch too.
 Sample website with plenty of files for demos
 
 
-## Copyright
+## How to contribute
 
 Please fork this repository and the issue pull request for review.
+
+## Copyright
+
+2014 Git training. All rights reserved.
